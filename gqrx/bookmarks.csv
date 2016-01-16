@@ -1,0 +1,182 @@
+# Tag name          ;  color
+Сиби                ; #c0c0c0
+PMR                 ; #c0c0c0
+Сиби предуст        ; #c0c0c0
+FM радиостанции     ; #c0c0c0
+УКВ                 ; #c0c0c0
+LPD                 ; #c0c0c0
+РЖД                 ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+    26965000; CB FM EU 1               ; Narrow FM           ;      10000; Сиби
+    26975000; CB FM EU 2               ; Narrow FM           ;      10000; Сиби
+    26985000; CB FM EU 3               ; Narrow FM           ;      10000; Сиби
+    27005000; CB FM EU 4               ; Narrow FM           ;      10000; Сиби
+    27015000; CB FM EU 5               ; Narrow FM           ;      10000; Сиби
+    27025000; CB FM EU 6               ; Narrow FM           ;      10000; Сиби
+    27035000; CB FM EU 7               ; Narrow FM           ;      10000; Сиби
+    27055000; CB FM EU 8               ; Narrow FM           ;      10000; Сиби
+    27065000; CB FM EU 9               ; Narrow FM           ;      10000; Сиби
+    27075000; CB FM EU 10              ; Narrow FM           ;      10000; Сиби
+    27085000; CB FM EU 11              ; Narrow FM           ;      10000; Сиби
+    27105000; CB FM EU 12              ; Narrow FM           ;      10000; Сиби
+    27115000; CB FM EU 13              ; Narrow FM           ;      10000; Сиби
+    27125000; CB FM EU 14              ; Narrow FM           ;      10000; Сиби
+    27135000; Дальнобойщики            ; Narrow FM           ;      10000; Сиби предуст
+    27135000; CB FM EU 15              ; Narrow FM           ;      10000; Сиби
+    27155000; CB FM EU 16              ; Narrow FM           ;      10000; Сиби
+    27165000; CB FM EU 17              ; Narrow FM           ;      10000; Сиби
+    27175000; CB FM EU 18              ; Narrow FM           ;      10000; Сиби
+    27185000; CB FM EU 19              ; Narrow FM           ;      10000; Сиби
+    27205000; CB FM EU 20              ; Narrow FM           ;      10000; Сиби
+    27215000; CB FM EU 21              ; Narrow FM           ;      10000; Сиби
+    27225000; CB FM EU 22              ; Narrow FM           ;      10000; Сиби
+    27235000; CB FM EU 24              ; Narrow FM           ;      10000; Сиби
+    27245000; CB FM EU 25              ; Narrow FM           ;      10000; Сиби
+    27255000; CB FM EU 23              ; Narrow FM           ;      10000; Сиби
+    27265000; CB FM EU 26              ; Narrow FM           ;      10000; Сиби
+    27275000; АРК Томск                ; Narrow FM           ;      10000; Сиби предуст
+    27275000; CB FM EU 27              ; Narrow FM           ;      10000; Сиби
+    27285000; CB FM EU 28              ; Narrow FM           ;      10000; Сиби
+    27295000; CB FM EU 29              ; Narrow FM           ;      10000; Сиби
+    27305000; CB FM EU 30              ; Narrow FM           ;      10000; Сиби
+    27315000; CB FM EU 31              ; Narrow FM           ;      10000; Сиби
+    27325000; CB FM EU 32              ; Narrow FM           ;      10000; Сиби
+    27335000; CB FM EU 33              ; Narrow FM           ;      10000; Сиби
+    27345000; CB FM EU 34              ; Narrow FM           ;      10000; Сиби
+    27355000; CB FM EU 35              ; Narrow FM           ;      10000; Сиби
+    27365000; CB FM EU 36              ; Narrow FM           ;      10000; Сиби
+    27375000; CB FM EU 37              ; Narrow FM           ;      10000; Сиби
+    27385000; CB FM EU 38              ; Narrow FM           ;      10000; Сиби
+    27395000; CB FM EU 39              ; Narrow FM           ;      10000; Сиби
+    27405000; CB FM EU 40              ; Narrow FM           ;      10000; Сиби
+    69800000; 69,8 NFM лав радио       ; WFM (oirt)          ;     160000; FM радиостанции
+    70190000; 70,2 NFM шансон          ; WFM (oirt)          ;     160000; FM радиостанции
+    71990000; 72,0 NFM ваня            ; WFM (oirt)          ;     160000; FM радиостанции
+    88500000; 88,5 FM звезда           ; WFM (stereo)        ;     200000; FM радиостанции
+    91100000; 91,1 FM вести фм         ; WFM (stereo)        ;     200000; FM радиостанции
+    91500000; 91,5 FM мир              ; WFM (stereo)        ;     200000; FM радиостанции
+   100900000; 100,9 FM благовест       ; WFM (stereo)        ;     200000; FM радиостанции
+   101300000; 101,3 FM дорожное радио  ; WFM (stereo)        ;     200000; FM радиостанции
+   101700000; 101,7 FM хит фм          ; WFM (stereo)        ;     200000; FM радиостанции
+   102100000; 102,1 FM русское радио   ; WFM (stereo)        ;     200000; FM радиостанции
+   102500000; 102,5 FM ретро фм        ; WFM (stereo)        ;     200000; FM радиостанции
+   102900000; 102,9 FM радио россии    ; WFM (stereo)        ;     200000; FM радиостанции
+   103400000; 103,4 FM европа плюс     ; WFM (stereo)        ;     200000; FM радиостанции
+   103800000; 103,8 FM дфм             ; WFM (stereo)        ;     200000; FM радиостанции
+   104200000; 104,2 FM юмор фм         ; WFM (stereo)        ;     200000; FM радиостанции
+   104600000; 104,6 FM сибирь          ; WFM (stereo)        ;     200000; FM радиостанции
+   105000000; 105,0 FM эхо мацы        ; WFM (stereo)        ;     200000; FM радиостанции
+   105400000; 105,4 FM авторадио       ; WFM (stereo)        ;     200000; FM радиостанции
+   106100000; 106,1 FM милицейская волна; WFM (stereo)        ;     200000; FM радиостанции
+   106600000; 106,6 FM маяк            ; WFM (stereo)        ;     200000; FM радиостанции
+   107100000; 107,1 FM дача            ; WFM (stereo)        ;     200000; FM радиостанции
+   107600000; 107,6 FM спорт           ; WFM (stereo)        ;     200000; FM радиостанции
+   143500000; ХЭЛЛ                     ; Narrow FM           ;      10000; УКВ
+   145225000; эхолинк                  ; Narrow FM           ;      10000; УКВ
+   148025000; РОВД Кировский           ; Narrow FM           ;      10000; УКВ
+   148075000; РОВД Советский           ; Narrow FM           ;      10000; УКВ
+   148100000; ОВО 1                    ; Narrow FM           ;      10000; УКВ
+   148125000; ОВО 2                    ; Narrow FM           ;      10000; УКВ
+   148175000; РОВД Октябрьский         ; Narrow FM           ;      10000; УКВ
+   148225000; РОВД Ленинский           ; Narrow FM           ;      10000; УКВ
+   148250000; ОВД Северск              ; Narrow FM           ;      10000; УКВ
+   148275000; ППС/ОКС                  ; Narrow FM           ;      10000; УКВ
+   148375000; ГАИ 2                    ; Narrow FM           ;      10000; УКВ
+   148425000; РОВД Томский             ; Narrow FM           ;      10000; УКВ
+   148500000; ДЧ УВД                   ; Narrow FM           ;      10000; УКВ
+   148575000; ГАИ 1                    ; Narrow FM           ;      10000; УКВ
+   148825000; МЧС                      ; Narrow FM           ;      10000; УКВ
+   148975000; ЛОВД                     ; Narrow FM           ;      10000; УКВ
+   152900000; РЖД 0                    ; Narrow FM           ;      10000; РЖД
+   152950000; РЖД 1                    ; Narrow FM           ;      10000; РЖД
+   152975000; РЖД 2                    ; Narrow FM           ;      10000; РЖД
+   153100000; РЖД 3                    ; Narrow FM           ;      10000; РЖД
+   153900000; РЖД 4                    ; Narrow FM           ;      10000; РЖД
+   153975000; РЖД 5                    ; Narrow FM           ;      10000; РЖД
+   154000000; РЖД 6                    ; Narrow FM           ;      10000; РЖД
+   154500000; РЖД 7                    ; Narrow FM           ;      10000; РЖД
+   154525000; РЖД 8                    ; Narrow FM           ;      10000; РЖД
+   154650000; РЖД 9                    ; Narrow FM           ;      10000; РЖД
+   154700000; РЖД 10                   ; Narrow FM           ;      10000; РЖД
+   164700000; Такси 1                  ; Narrow FM           ;      10000; УКВ
+   164750000; Такси 2                  ; Narrow FM           ;      10000; УКВ
+   164950000; Скорая помощь            ; Narrow FM           ;      10000; УКВ
+   167700000; Энергетики               ; Narrow FM           ;      10000; УКВ
+   433075000; LPD 1 (8: 1)             ; Narrow FM           ;      10000; LPD
+   433100000; LPD 2 (8: 2)             ; Narrow FM           ;      10000; LPD
+   433125000; LPD 3                    ; Narrow FM           ;      10000; LPD
+   433150000; LPD 4                    ; Narrow FM           ;      10000; LPD
+   433175000; LPD 5                    ; Narrow FM           ;      10000; LPD
+   433200000; LPD 6 (8: 3)             ; Narrow FM           ;      10000; LPD
+   433225000; LPD 7                    ; Narrow FM           ;      10000; LPD
+   433250000; LPD 8                    ; Narrow FM           ;      10000; LPD
+   433275000; LPD 9                    ; Narrow FM           ;      10000; LPD
+   433300000; LPD 10 (8: 4)            ; Narrow FM           ;      10000; LPD
+   433325000; LPD 11                   ; Narrow FM           ;      10000; LPD
+   433350000; LPD 12 (8: 5)            ; Narrow FM           ;      10000; LPD
+   433375000; LPD 13                   ; Narrow FM           ;      10000; LPD
+   433400000; LPD 14                   ; Narrow FM           ;      10000; LPD
+   433425000; LPD 15                   ; Narrow FM           ;      10000; LPD
+   433450000; LPD 16                   ; Narrow FM           ;      10000; LPD
+   433475000; LPD 17 (8: 6)            ; Narrow FM           ;      10000; LPD
+   433500000; LPD 18                   ; Narrow FM           ;      10000; LPD
+   433525000; LPD 19                   ; Narrow FM           ;      10000; LPD
+   433550000; LPD 20                   ; Narrow FM           ;      10000; LPD
+   433575000; LPD 21                   ; Narrow FM           ;      10000; LPD
+   433600000; LPD 22                   ; Narrow FM           ;      10000; LPD
+   433625000; LPD 23 (8: 7)            ; Narrow FM           ;      10000; LPD
+   433650000; LPD 24                   ; Narrow FM           ;      10000; LPD
+   433675000; LPD 25                   ; Narrow FM           ;      10000; LPD
+   433700000; LPD 26                   ; Narrow FM           ;      10000; LPD
+   433725000; LPD 27                   ; Narrow FM           ;      10000; LPD
+   433750000; LPD 28                   ; Narrow FM           ;      10000; LPD
+   433775000; LPD 29                   ; Narrow FM           ;      10000; LPD
+   433800000; LPD 30 (8: 8)            ; Narrow FM           ;      10000; LPD
+   433825000; LPD 31                   ; Narrow FM           ;      10000; LPD
+   433850000; LPD 32                   ; Narrow FM           ;      10000; LPD
+   433875000; LPD 33                   ; Narrow FM           ;      10000; LPD
+   433900000; LPD 34                   ; Narrow FM           ;      10000; LPD
+   433925000; LPD 35                   ; Narrow FM           ;      10000; LPD
+   433950000; LPD 36                   ; Narrow FM           ;      10000; LPD
+   433975000; LPD 37                   ; Narrow FM           ;      10000; LPD
+   434000000; LPD 38                   ; Narrow FM           ;      10000; LPD
+   434025000; LPD 39                   ; Narrow FM           ;      10000; LPD
+   434050000; LPD 40                   ; Narrow FM           ;      10000; LPD
+   434075000; LPD 41                   ; Narrow FM           ;      10000; LPD
+   434100000; LPD 42                   ; Narrow FM           ;      10000; LPD
+   434125000; LPD 43                   ; Narrow FM           ;      10000; LPD
+   434150000; LPD 44                   ; Narrow FM           ;      10000; LPD
+   434175000; LPD 45                   ; Narrow FM           ;      10000; LPD
+   434200000; LPD 46                   ; Narrow FM           ;      10000; LPD
+   434225000; LPD 47                   ; Narrow FM           ;      10000; LPD
+   434250000; LPD 48                   ; Narrow FM           ;      10000; LPD
+   434275000; LPD 49                   ; Narrow FM           ;      10000; LPD
+   434300000; LPD 50                   ; Narrow FM           ;      10000; LPD
+   434325000; LPD 51                   ; Narrow FM           ;      10000; LPD
+   434350000; LPD 52                   ; Narrow FM           ;      10000; LPD
+   434375000; LPD 53                   ; Narrow FM           ;      10000; LPD
+   434400000; LPD 54                   ; Narrow FM           ;      10000; LPD
+   434425000; LPD 55                   ; Narrow FM           ;      10000; LPD
+   434450000; LPD 56                   ; Narrow FM           ;      10000; LPD
+   434475000; LPD 57                   ; Narrow FM           ;      10000; LPD
+   434500000; LPD 58                   ; Narrow FM           ;      10000; LPD
+   434525000; LPD 59                   ; Narrow FM           ;      10000; LPD
+   434550000; LPD 60                   ; Narrow FM           ;      10000; LPD
+   434575000; LPD 61                   ; Narrow FM           ;      10000; LPD
+   434600000; LPD 62                   ; Narrow FM           ;      10000; LPD
+   434625000; LPD 63                   ; Narrow FM           ;      10000; LPD
+   434650000; LPD 64                   ; Narrow FM           ;      10000; LPD
+   434675000; LPD 65                   ; Narrow FM           ;      10000; LPD
+   434700000; LPD 66                   ; Narrow FM           ;      10000; LPD
+   434725000; LPD 67                   ; Narrow FM           ;      10000; LPD
+   434750000; LPD 68                   ; Narrow FM           ;      10000; LPD
+   434775000; LPD 69                   ; Narrow FM           ;      10000; LPD
+   446006250; PMR 1                    ; Narrow FM           ;      10000; PMR
+   446018750; PMR 2                    ; Narrow FM           ;      10000; PMR
+   446031250; PMR 3                    ; Narrow FM           ;      10000; PMR
+   446043750; PMR 4                    ; Narrow FM           ;      10000; PMR
+   446056250; PMR 5                    ; Narrow FM           ;      10000; PMR
+   446068750; PMR 6                    ; Narrow FM           ;      10000; PMR
+   446081250; PMR 7                    ; Narrow FM           ;      10000; PMR
+   446093750; PMR 8                    ; Narrow FM           ;      10000; PMR

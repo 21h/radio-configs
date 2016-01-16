@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdr_presets version="1">
+   <category id="-1" />
+   <category id="3" name="Интересное">
+      <preset id="2" name="АРК Томск" freq="27275000" centfreq="27275000" offset="0" order="2" filter="3789" dem="0" />
+      <preset id="2" name="Дальнобойщики" freq="27135000" centfreq="27135000" offset="0" order="2" filter="3789" dem="2" />
+      <preset id="28" name="Эхолинк" freq="145225276" centfreq="145225276" offset="0" order="4" filter="10000" dem="1" />
+      <preset id="29" name="Пожарная" freq="148825000" centfreq="148825000" offset="0" order="5" filter="10000" dem="1" />
+      <preset id="30" name="Скорая" freq="164950000" centfreq="164950000" offset="0" order="6" filter="10000" dem="1" />
+   </category>
+<category id="5" name="СиБи (EU)">
+   <preset id="1" name="1" freq="26965" centfreq="26965" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="2" name="2" freq="26975" centfreq="26975" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="3" name="3" freq="26985" centfreq="26985" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="4" name="4" freq="27005" centfreq="27005" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="5" name="5" freq="27015" centfreq="27015" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="6" name="6" freq="27025" centfreq="27025" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="7" name="7" freq="27035" centfreq="27035" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="8" name="8" freq="27055" centfreq="27055" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="9" name="9" freq="27065" centfreq="27065" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="10" name="10" freq="27075" centfreq="27075" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="11" name="11" freq="27085" centfreq="27085" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="12" name="12" freq="27105" centfreq="27105" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="13" name="13" freq="27115" centfreq="27115" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="14" name="14" freq="27125" centfreq="27125" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="15" name="15" freq="27135" centfreq="27135" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="16" name="16" freq="27155" centfreq="27155" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="17" name="17" freq="27165" centfreq="27165" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="18" name="18" freq="27175" centfreq="27175" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="19" name="19" freq="27185" centfreq="27185" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="20" name="20" freq="27205" centfreq="27205" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="21" name="21" freq="27215" centfreq="27215" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="22" name="22" freq="27225" centfreq="27225" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="23" name="23" freq="27255" centfreq="27255" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="24" name="24" freq="27235" centfreq="27235" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="25" name="25" freq="27245" centfreq="27245" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="26" name="26" freq="27265" centfreq="27265" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="27" name="27" freq="27275" centfreq="27275" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="28" name="28" freq="27285" centfreq="27285" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="29" name="29" freq="27295" centfreq="27295" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="30" name="30" freq="27305" centfreq="27305" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="31" name="31" freq="27315" centfreq="27315" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="32" name="32" freq="27325" centfreq="27325" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="33" name="33" freq="27335" centfreq="27335" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="34" name="34" freq="27345" centfreq="27345" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="35" name="35" freq="27355" centfreq="27355" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="36" name="36" freq="27365" centfreq="27365" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="37" name="37" freq="27375" centfreq="27375" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="38" name="38" freq="27385" centfreq="27385" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="39" name="39" freq="27395" centfreq="27395" offset="0" order="1" filter="10000" dem="1" />
+   <preset id="40" name="40" freq="27405" centfreq="27405" offset="0" order="1" filter="10000" dem="1" />
+</category>
+   <category id="4" name="LPD">
+      <preset id="1" name="1" freq="433075" centfreq="433075" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="2" name="2" freq="433100" centfreq="433100" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="3" name="3" freq="433125" centfreq="433125" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="4" name="4" freq="433150" centfreq="433150" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="5" name="5" freq="433175" centfreq="433175" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="6" name="6" freq="433200" centfreq="433200" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="7" name="7" freq="433225" centfreq="433225" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="8" name="8" freq="433250" centfreq="433250" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="9" name="9" freq="433275" centfreq="433275" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="10" name="10" freq="433300" centfreq="433300" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="11" name="11" freq="433325" centfreq="433325" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="12" name="12" freq="433350" centfreq="433350" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="13" name="13" freq="433375" centfreq="433375" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="14" name="14" freq="433400" centfreq="433400" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="15" name="15" freq="433425" centfreq="433425" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="16" name="16" freq="433450" centfreq="433450" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="17" name="17" freq="433475" centfreq="433475" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="18" name="18" freq="433500" centfreq="433500" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="19" name="19" freq="433525" centfreq="433525" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="20" name="20" freq="433550" centfreq="433550" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="21" name="21" freq="433575" centfreq="433575" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="22" name="22" freq="433600" centfreq="433600" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="23" name="23" freq="433625" centfreq="433625" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="24" name="24" freq="433650" centfreq="433650" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="25" name="25" freq="433675" centfreq="433675" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="26" name="26" freq="433700" centfreq="433700" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="27" name="27" freq="433725" centfreq="433725" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="28" name="28" freq="433750" centfreq="433750" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="29" name="29" freq="433775" centfreq="433775" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="30" name="30" freq="433800" centfreq="433800" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="31" name="31" freq="433825" centfreq="433825" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="32" name="32" freq="433850" centfreq="433850" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="33" name="33" freq="433875" centfreq="433875" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="34" name="34" freq="433900" centfreq="433900" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="35" name="35" freq="433925" centfreq="433925" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="36" name="36" freq="433950" centfreq="433950" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="37" name="37" freq="433975" centfreq="433975" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="38" name="38" freq="434000" centfreq="434000" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="39" name="39" freq="434025" centfreq="434025" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="40" name="40" freq="434050" centfreq="434050" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="41" name="41" freq="434075" centfreq="434075" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="42" name="42" freq="434100" centfreq="434100" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="43" name="43" freq="434125" centfreq="434125" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="44" name="44" freq="434150" centfreq="434150" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="45" name="45" freq="434175" centfreq="434175" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="46" name="46" freq="434200" centfreq="434200" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="47" name="47" freq="434225" centfreq="434225" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="48" name="48" freq="434250" centfreq="434250" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="49" name="49" freq="434275" centfreq="434275" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="50" name="50" freq="434300" centfreq="434300" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="51" name="51" freq="434325" centfreq="434325" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="52" name="52" freq="434350" centfreq="434350" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="53" name="53" freq="434375" centfreq="434375" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="54" name="54" freq="434400" centfreq="434400" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="55" name="55" freq="434425" centfreq="434425" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="56" name="56" freq="434450" centfreq="434450" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="57" name="57" freq="434475" centfreq="434475" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="58" name="58" freq="434500" centfreq="434500" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="59" name="59" freq="434525" centfreq="434525" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="60" name="60" freq="434550" centfreq="434550" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="61" name="61" freq="434575" centfreq="434575" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="62" name="62" freq="434600" centfreq="434600" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="63" name="63" freq="434625" centfreq="434625" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="64" name="64" freq="434650" centfreq="434650" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="65" name="65" freq="434675" centfreq="434675" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="66" name="66" freq="434700" centfreq="434700" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="67" name="67" freq="434725" centfreq="434725" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="68" name="68" freq="434750" centfreq="434750" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="69" name="69" freq="434775" centfreq="434775" offset="0" order="1" filter="10000" dem="1" />
+   </category>
+   <category id="2" name="PMR">
+      <preset id="31" name="1" freq="446006250" centfreq="446006250" offset="0" order="1" filter="10000" dem="1" />
+      <preset id="32" name="2" freq="446018750" centfreq="446018750" offset="0" order="2" filter="10000" dem="1" />
+      <preset id="33" name="3" freq="446031250" centfreq="446031250" offset="0" order="3" filter="10000" dem="1" />
+      <preset id="34" name="4" freq="446043750" centfreq="446043750" offset="0" order="4" filter="10000" dem="1" />
+      <preset id="35" name="5" freq="446056250" centfreq="446056250" offset="0" order="5" filter="10000" dem="1" />
+      <preset id="36" name="6" freq="446068750" centfreq="446068750" offset="0" order="6" filter="10000" dem="1" />
+      <preset id="37" name="7" freq="446081250" centfreq="446081250" offset="0" order="7" filter="10000" dem="1" />
+      <preset id="38" name="8" freq="446093750" centfreq="446093750" offset="0" order="8" filter="10000" dem="1" />
+   </category>
+   <category id="1" name="FM Радиостанции">
+      <preset id="21" name="69,8 NFM лав радио" freq="69800000" centfreq="69542658" offset="0" order="16" filter="58261" dem="1" />
+      <preset id="22" name="70,2 NFM шансон" freq="70190000" centfreq="69932658" offset="0" order="17" filter="58261" dem="1" />
+      <preset id="23" name="72,0 NFM ваня" freq="71990000" centfreq="71732658" offset="0" order="18" filter="58261" dem="1" />
+      <preset id="24" name="88,5 FM звезда" freq="88500000" centfreq="88242658" offset="0" order="19" filter="58261" dem="0" />
+      <preset id="25" name="91,1 FM вести фм" freq="91100000" centfreq="90842658" offset="0" order="20" filter="58261" dem="0" />
+      <preset id="26" name="91,5 F мир" freq="91500000" centfreq="91242658" offset="0" order="21" filter="58261" dem="0" />
+      <preset id="27" name="100,9 FM благовест" freq="100900000" centfreq="100642658" offset="0" order="22" filter="58261" dem="0" />
+      <preset id="6" name="101,3 FM дорожное радио" freq="101300000" centfreq="101042658" offset="0" order="1" filter="58261" dem="0" />
+      <preset id="7" name="101,7 FM хит фм" freq="101700000" centfreq="101442658" offset="0" order="2" filter="58261" dem="0" />
+      <preset id="8" name="102,1 FM русское радио" freq="102100000" centfreq="101842658" offset="0" order="3" filter="58261" dem="0" />
+      <preset id="9" name="102,5 FM ретро фм" freq="102500000" centfreq="102242658" offset="0" order="4" filter="58261" dem="0" />
+      <preset id="10" name="102,9 FM радио россии" freq="102900000" centfreq="102642658" offset="0" order="5" filter="58261" dem="0" />
+      <preset id="11" name="103,4 FM европа плюс" freq="103400000" centfreq="103142658" offset="0" order="6" filter="58261" dem="0" />
+      <preset id="12" name="103,8 FM дфм" freq="103800000" centfreq="103542658" offset="0" order="7" filter="58261" dem="0" />
+      <preset id="13" name="104,2 FM юмор фм" freq="104200000" centfreq="103942658" offset="0" order="8" filter="58261" dem="0" />
+      <preset id="14" name="104,6 FM сибирь" freq="104600000" centfreq="104342658" offset="0" order="9" filter="58261" dem="0" />
+      <preset id="15" name="105,0 FM эхо мацы" freq="105000000" centfreq="104742658" offset="0" order="10" filter="58261" dem="0" />
+      <preset id="16" name="105,4 FM авторадио" freq="105400000" centfreq="105142658" offset="0" order="11" filter="58261" dem="0" />
+      <preset id="17" name="106,1 FM милицейская волна" freq="106100000" centfreq="105842658" offset="0" order="12" filter="58261" dem="0" />
+      <preset id="18" name="106,6 FM маяк" freq="106600000" centfreq="106342658" offset="0" order="13" filter="58261" dem="0" />
+      <preset id="19" name="107,1 FM дача" freq="107100000" centfreq="106842658" offset="0" order="14" filter="58261" dem="0" />
+      <preset id="20" name="107,6 FM спорт" freq="107600000" centfreq="107342658" offset="0" order="15" filter="58261" dem="0" />
+   </category>
+</sdr_presets>
