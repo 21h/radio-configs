@@ -1,11 +1,11 @@
 # Tag name          ;  color
 Сиби                ; #c0c0c0
-PMR                 ; #c0c0c0
 Сиби предуст        ; #c0c0c0
-FM радиостанции     ; #c0c0c0
-УКВ                 ; #c0c0c0
 LPD                 ; #c0c0c0
+УКВ                 ; #c0c0c0
 РЖД                 ; #c0c0c0
+FM радиостанции     ; #c0c0c0
+PMR                 ; #c0c0c0
 
 # Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
     26965000; CB FM EU 1               ; Narrow FM           ;      10000; Сиби
@@ -22,8 +22,8 @@ LPD                 ; #c0c0c0
     27105000; CB FM EU 12              ; Narrow FM           ;      10000; Сиби
     27115000; CB FM EU 13              ; Narrow FM           ;      10000; Сиби
     27125000; CB FM EU 14              ; Narrow FM           ;      10000; Сиби
-    27135000; Дальнобойщики            ; Narrow FM           ;      10000; Сиби предуст
     27135000; CB FM EU 15              ; Narrow FM           ;      10000; Сиби
+    27135000; Дальнобойщики            ; AM                  ;      10000; Сиби предуст
     27155000; CB FM EU 16              ; Narrow FM           ;      10000; Сиби
     27165000; CB FM EU 17              ; Narrow FM           ;      10000; Сиби
     27175000; CB FM EU 18              ; Narrow FM           ;      10000; Сиби
@@ -35,8 +35,8 @@ LPD                 ; #c0c0c0
     27245000; CB FM EU 25              ; Narrow FM           ;      10000; Сиби
     27255000; CB FM EU 23              ; Narrow FM           ;      10000; Сиби
     27265000; CB FM EU 26              ; Narrow FM           ;      10000; Сиби
-    27275000; АРК Томск                ; Narrow FM           ;      10000; Сиби предуст
     27275000; CB FM EU 27              ; Narrow FM           ;      10000; Сиби
+    27275000; АРК Томск                ; Narrow FM           ;      10000; Сиби предуст
     27285000; CB FM EU 28              ; Narrow FM           ;      10000; Сиби
     27295000; CB FM EU 29              ; Narrow FM           ;      10000; Сиби
     27305000; CB FM EU 30              ; Narrow FM           ;      10000; Сиби
