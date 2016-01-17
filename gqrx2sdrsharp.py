@@ -25,6 +25,10 @@ fIN.readline() #строка с заголовками полей - пропус
 fOUT.write(header)
 for line in fIN:
     data = line.split(';')
-    print(template(data))
-    fOUT.write(template(data))
+    result = template(data)
+    result = result.replace('Narrow FM', 'NFM')
+    result = result.replace('WFM (stereo)', 'WFM')
+    result = result.replace('WFM (mono)', 'WFM')
+    result = result.replace('WFM (oirt)', 'WFM')
+    fOUT.write(result)
 fOUT.write(footer)
