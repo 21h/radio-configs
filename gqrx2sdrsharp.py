@@ -25,11 +25,6 @@ fIN.readline() #строка с заголовками полей - пропус
 fOUT.write(header)
 for line in fIN:
     data = line.split(';')
-    dataFreq=data[0].strip()
-    dataName=data[1].strip()
-    dataMod=data[2].strip()
-    dataFilter=data[3].strip()
-    dataTag=data[4].strip()
     print(template(data))
     fOUT.write(template(data))
 fOUT.write(footer)
