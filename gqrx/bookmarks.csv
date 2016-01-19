@@ -35,8 +35,8 @@ FM радиостанции     ; #c0c0c0
     27245000; CB FM EU 25              ; Narrow FM           ;      10000; Сиби
     27255000; CB FM EU 23              ; Narrow FM           ;      10000; Сиби
     27265000; CB FM EU 26              ; Narrow FM           ;      10000; Сиби
-    27275000; CB FM EU 27              ; Narrow FM           ;      10000; Сиби
     27275000; АРК Томск                ; Narrow FM           ;      10000; Сиби предуст
+    27275000; CB FM EU 27              ; Narrow FM           ;      10000; Сиби
     27285000; CB FM EU 28              ; Narrow FM           ;      10000; Сиби
     27295000; CB FM EU 29              ; Narrow FM           ;      10000; Сиби
     27305000; CB FM EU 30              ; Narrow FM           ;      10000; Сиби
@@ -179,4 +179,4 @@ FM радиостанции     ; #c0c0c0
    446068750; PMR 6                    ; Narrow FM           ;      10000; PMR
    446081250; PMR 7                    ; Narrow FM           ;      10000; PMR
    446093750; PMR 8                    ; Narrow FM           ;      10000; PMR
-   458725000; МЧС                      ; Narrow FM           ;      10000; УКВ
+   458721100; МЧС                      ; Narrow FM           ;      20000; УКВ
