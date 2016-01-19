@@ -1,11 +1,11 @@
 # Tag name          ;  color
+РЖД                 ; #c0c0c0
+УКВ                 ; #c0c0c0
 Сиби                ; #c0c0c0
+PMR                 ; #c0c0c0
 Сиби предуст        ; #c0c0c0
 LPD                 ; #c0c0c0
-УКВ                 ; #c0c0c0
-РЖД                 ; #c0c0c0
 FM радиостанции     ; #c0c0c0
-PMR                 ; #c0c0c0
 
 # Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
     26965000; CB FM EU 1               ; Narrow FM           ;      10000; Сиби
@@ -86,7 +86,6 @@ PMR                 ; #c0c0c0
    148425000; РОВД Томский             ; Narrow FM           ;      10000; УКВ
    148500000; ДЧ УВД                   ; Narrow FM           ;      10000; УКВ
    148575000; ГАИ 1                    ; Narrow FM           ;      10000; УКВ
-   148825000; МЧС                      ; Narrow FM           ;      10000; УКВ
    148975000; ЛОВД                     ; Narrow FM           ;      10000; УКВ
    152900000; РЖД 0                    ; Narrow FM           ;      10000; РЖД
    152950000; РЖД 1                    ; Narrow FM           ;      10000; РЖД
@@ -180,3 +179,4 @@ PMR                 ; #c0c0c0
    446068750; PMR 6                    ; Narrow FM           ;      10000; PMR
    446081250; PMR 7                    ; Narrow FM           ;      10000; PMR
    446093750; PMR 8                    ; Narrow FM           ;      10000; PMR
+   458725000; МЧС                      ; Narrow FM           ;      10000; УКВ

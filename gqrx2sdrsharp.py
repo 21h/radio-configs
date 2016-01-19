@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Copyright by Vladimir Smagin
+# http://blindage.org   21h@blindage.org
+
 fileGQRX='gqrx/bookmarks.csv'
 fileOUT='sdr#/frequencies.xml'
 

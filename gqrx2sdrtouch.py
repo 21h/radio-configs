@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Copyright by Vladimir Smagin
+# http://blindage.org   21h@blindage.org
+
 fileGQRX = 'gqrx/bookmarks.csv'
 fileOUT = 'sdrtouch/SDRTouchPresets.xml'
 
@@ -48,7 +51,6 @@ for category in categories:
             if station[2] == 'AM': dem='2'
             resultString='<preset id="{0}" name="{1[1]}" freq="{1[0]}" centfreq="{1[0]}" offset="0" order="1" filter="{1[3]}" dem="{2}" />'.format(idStation, station, dem)
             idStation += 1
-            print(resultString)
             fOUT.write(resultString)
     fOUT.write('</category>')
 fOUT.write(footer)
