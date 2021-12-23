@@ -10,12 +10,9 @@ header='Name;LO;Tune;Mode;SrateOut;LoCut;HiCut'
 footer=''
 
 def template(data):
-    i=0
-    for m in data:
+    for i, m in enumerate(data):
         data[i] = m.strip()
-        i += 1
-    resultString="{0[1]};{0[0]};{0[0]};{0[2]};{0[3]};100;4500\r\n".format(data)
-    return resultString
+    return "{0[1]};{0[0]};{0[0]};{0[2]};{0[3]};100;4500\r\n".format(data)
 
 fIN = open(fileGQRX, 'r+')
 fOUT = open(fileOUT, 'w')
