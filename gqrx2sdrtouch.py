@@ -27,18 +27,14 @@ fIN.readline() #строка с заголовками полей - пропус
 stations = []
 for line in fIN:
     data = line.split(';')
-    i = 0
-    for m in data:
+    for i, m in enumerate(data):
         data[i] = m.strip()
-        i += 1
     stations.append(data)
 
 #записываем в файл
 fOUT.write(header)
-idCategory = 0
-for category in categories:
+for idCategory, category in enumerate(categories):
     fOUT.write('<category id="{}" name="{}">'.format(idCategory, category))
-    idCategory += 1
     idStation=0
     for station in stations:
         if station[4] == category:

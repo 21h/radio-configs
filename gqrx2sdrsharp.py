@@ -10,12 +10,11 @@ header='<?xml version="1.0"?><ArrayOfMemoryEntry xmlns:xsi="http://www.w3.org/20
 footer='</ArrayOfMemoryEntry>'
 
 def template(data):
-    i=0
-    for m in data:
+    for i, m in enumerate(data):
         data[i] = m.strip()
-        i += 1
-    resultString="<MemoryEntry><IsFavourite>false</IsFavourite><Name>{0[1]}</Name><GroupName>{0[4]}</GroupName><Frequency>{0[0]}</Frequency><DetectorType>{0[2]}</DetectorType><Shift>0</Shift><FilterBandwidth>{0[3]}</FilterBandwidth></MemoryEntry>".format(data)
-    return resultString
+    return "<MemoryEntry><IsFavourite>false</IsFavourite><Name>{0[1]}</Name><GroupName>{0[4]}</GroupName><Frequency>{0[0]}</Frequency><DetectorType>{0[2]}</DetectorType><Shift>0</Shift><FilterBandwidth>{0[3]}</FilterBandwidth></MemoryEntry>".format(
+        data
+    )
 
 fIN = open(fileGQRX, 'r+')
 fOUT = open(fileOUT, 'w')
